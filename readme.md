@@ -9,7 +9,6 @@
   <img align="center" alt="Kidscry-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kidscry-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kidscry-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/lua/lua-plain.svg">
-  <img align="right" alt="Kidscry" src="https://cdn.discordapp.com/attachments/877211713135607829/882093844005531690/a476d916d4a4b3289bb8eac6a9b8e485.webp">
 </div>
   
 ##
