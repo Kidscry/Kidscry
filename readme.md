@@ -18,7 +18,6 @@
 </p>
  
 <img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=Kidscry"/> 
-Discord: Kidscry#0964
  
 <div> 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
