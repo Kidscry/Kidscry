@@ -13,7 +13,7 @@
 </div>
   
 ## 
-
+Discord: Kidscry#0964
 <div> 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
