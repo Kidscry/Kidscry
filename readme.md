@@ -17,7 +17,7 @@
     <a href="https://discordapp.com/users/875179123759267850"><img src="https://pbs.twimg.com/profile_images/1392864511669854217/dBymBmGq_400x400.jpg" height="50"/></a>
 </p>
  
-<img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=Kidscry" height="50"/> 
+<img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=Kidscry" height="20"/> 
  
 <div> 
  
