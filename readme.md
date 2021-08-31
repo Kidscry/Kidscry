@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/Kidscry">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kidscry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidscry&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="161em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidscry&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Theo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
