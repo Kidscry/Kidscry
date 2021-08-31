@@ -12,11 +12,11 @@
   <img align="right" alt="Theo-yoda" src="https://cdn.discordapp.com/avatars/875179123759267850/a476d916d4a4b3289bb8eac6a9b8e485.webp?size=4096">
 </div>
   
-  ##
+##
  
  
 <div> 
-test
+
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
