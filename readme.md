@@ -14,9 +14,10 @@
   
 ##
  <p align="left">
-    <a href="https://discordapp.com/users/Kidscry#0964"><img src="https://pbs.twimg.com/profile_images/1392864511669854217/dBymBmGq_400x400.jpg" height="50"/></a>
+    <a href="https://discordapp.com/users/875179123759267850"><img src="https://pbs.twimg.com/profile_images/1392864511669854217/dBymBmGq_400x400.jpg" height="50"/></a>
 </p>
-
+ 
+<img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=Kidscry"/> 
 Discord: Kidscry#0964
 <div> 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
